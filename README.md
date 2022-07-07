@@ -1,3 +1,3 @@
 # SIGIR2022-Efficient-Transfomers
 
-Work in progress. Slides and notebooks will be uploaded soon.
+This repo has slides and notebooks for the 2022 SIGIR tutorial "Improving Efficiency and Robustness of Transformer-based Information Retrieval Systems". 
